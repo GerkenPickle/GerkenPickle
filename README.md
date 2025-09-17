@@ -3,7 +3,7 @@
 🎓 Recent Computer Science graduate from the University of South Florida (Dec 2024, GPA: 3.53)  
 💻 Interested in software development, automation, and building practical tools that solve real problems  
 ⚡ Experience with 3D printing systems, crypto mining operations, and full-stack project development  
-💡 Founder of GerkenPickleFarm, LLC – design and produce 3D models and manage cryptocurrency operations [See repo](https://github.com/GerkenPickle/GerkenPickleFarm)
+💡 Founder of GerkenPickleFarm, LLC – design and produce 3D models and manage cryptocurrency operations [(See repo)](https://github.com/GerkenPickle/GerkenPickleFarm)
 
 ---
 
