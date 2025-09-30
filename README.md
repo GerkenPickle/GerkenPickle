@@ -17,7 +17,7 @@
 ## 🚀 Projects
 - **[File Conversion Tool](https://github.com/GerkenPickle/file-converter)** – Designed a user-friendly file converter prototype focused on usability and accessibility.  
 - **InCollege Networking Platform** – Python-based networking platform prototype built with Agile methodology and Git.  
-- **[CNN Flag Classifier](https://github.com/GerkenPickle/Flag-Identification-CNN)** – PyTorch-based deep learning model that classifies country flags with data augmentation and benchmarks CPU/GPU performance.  
+- **[CNN Flag Classifier](https://github.com/GerkenPickle/Flag-Identification-CNN)** – PyTorch model that classifies country flags, applies data augmentation, and benchmarks CPU/GPU performance. 
 - *(More projects coming soon!)*  
 
 ---
