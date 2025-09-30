@@ -9,7 +9,7 @@
 
 ## 🔧 Technical Skills
 - **Languages:** C, C++, Python, Java, JavaScript, SQL, CUDA  
-- **Technologies & Tools:** Git, PyTest, Agile/Scrum, TensorFlow, Figma, Flipper Zero (pen testing)  
+- **Technologies & Tools:** React, Node.js, Git, PyTest, Agile/Scrum, PyTorch, Figma, Flipper Zero (pen testing)  
 - **Platforms:** Windows (7/10/11), Linux (Ubuntu), UNIX, Android, iOS  
 
 ---
